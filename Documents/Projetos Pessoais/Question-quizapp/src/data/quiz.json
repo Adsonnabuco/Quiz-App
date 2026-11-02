@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "question": "Qual sintaxe do Tailwind CSS v4 é utilizada para definir variáveis de tema como `--font-sans`?",
+    "options": ["@theme", "@import", "@utility", "@apply"],
+    "answer": "@theme"
+  },
+  {
+    "id": 2,
+    "question": "No CSS, qual é a principal função de listar múltiplos nomes separados por vírgula na propriedade `font-family`?",
+    "options": [
+      "Aplicar um efeito de degradê entre as fontes",
+      "Criar uma pilha de fallback caso a fonte principal não carregue",
+      "Importar fontes externas automaticamente",
+      "Combinar os estilos visualmente na mesma frase"
+    ],
+    "answer": "Criar uma pilha de fallback caso a fonte principal não carregue"
+  },
+  {
+    "id": 3,
+    "question": "Por que palavras-chave nativas do CSS como `sans-serif` ou `system-ui` não devem ser envolvidas por aspas?",
+    "options": [
+      "Porque o CSS não aceita aspas em propriedades de texto",
+      "Porque o navegador as interpretaria como o nome exato de uma fonte instalada em vez de uma categoria genérica",
+      "Porque aspas são reservadas exclusivamente para arquivos locais",
+      "Porque palavras com hífen não exigem aspas"
+    ],
+    "answer": "Porque o navegador as interpretaria como o nome exato de uma fonte instalada em vez de uma categoria genérica"
+  },
+  {
+    "id": 4,
+    "question": "O que a palavra-chave nativa `system-ui` instrui o navegador a fazer?",
+    "options": [
+      "Baixar a fonte padrão do sistema via Google Fonts",
+      "Renderizar o texto com a fonte padrão da interface do sistema operacional do usuário",
+      "Ocultar o texto se a fonte principal falhar",
+      "Forçar o uso de uma fonte serifada"
+    ],
+    "answer": "Renderizar o texto com a fonte padrão da interface do sistema operacional do usuário"
+  },
+  {
+    "id": 5,
+    "question":"Qual é a capital da França?",
+    "options": ["Londres", "Berlim", "Paris", "Madri"],
+    "answer": "Paris"
+  }
+]
